@@ -1,0 +1,1041 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <GDALRasterAttributeTable Row0Min="0" BinSize="1" tableType="thematic">
+      <FieldDefn index="0">
+        <Name>Class_Names</Name>
+        <Type>2</Type>
+        <Usage>2</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>Opacity</Name>
+        <Type>0</Type>
+        <Usage>9</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="1">
+        <F>Water seasonal</F>
+        <F>255</F>
+      </Row>
+      <Row index="2">
+        <F>Water permanent</F>
+        <F>255</F>
+      </Row>
+      <Row index="3">
+        <F>Wetlands</F>
+        <F>255</F>
+      </Row>
+      <Row index="4">
+        <F>Indigenous Forest</F>
+        <F>255</F>
+      </Row>
+      <Row index="5">
+        <F>Thicket /Dense bush</F>
+        <F>255</F>
+      </Row>
+      <Row index="6">
+        <F>Woodlan/Open bush</F>
+        <F>255</F>
+      </Row>
+      <Row index="7">
+        <F>Grassland</F>
+        <F>255</F>
+      </Row>
+      <Row index="8">
+        <F>Shrubland fynbos</F>
+        <F>255</F>
+      </Row>
+      <Row index="9">
+        <F>Low shrubland</F>
+        <F>255</F>
+      </Row>
+      <Row index="10">
+        <F>Cultivated comm fields (high)</F>
+        <F>255</F>
+      </Row>
+      <Row index="11">
+        <F>Cultivated comm fields (med)</F>
+        <F>255</F>
+      </Row>
+      <Row index="12">
+        <F>Cultivated comm fields (low)</F>
+        <F>255</F>
+      </Row>
+      <Row index="13">
+        <F>Cultivated comm pivots (high)</F>
+        <F>255</F>
+      </Row>
+      <Row index="14">
+        <F>Cultivated comm pivots (med)</F>
+        <F>255</F>
+      </Row>
+      <Row index="15">
+        <F>Cultivated comm pivots (low)</F>
+        <F>255</F>
+      </Row>
+      <Row index="16">
+        <F>Cultivated orchards (high)</F>
+        <F>255</F>
+      </Row>
+      <Row index="17">
+        <F>Cultivated orchards (med)</F>
+        <F>255</F>
+      </Row>
+      <Row index="18">
+        <F>Cultivated orchards (low)</F>
+        <F>255</F>
+      </Row>
+      <Row index="19">
+        <F>Cultivated vines (high)</F>
+        <F>255</F>
+      </Row>
+      <Row index="20">
+        <F>Cultivated vines (med)</F>
+        <F>255</F>
+      </Row>
+      <Row index="21">
+        <F>Cultivated vines (low)</F>
+        <F>255</F>
+      </Row>
+      <Row index="22">
+        <F>Cultivated permanent pineapple</F>
+        <F>255</F>
+      </Row>
+      <Row index="23">
+        <F>Cultivated subsistence (high)</F>
+        <F>255</F>
+      </Row>
+      <Row index="24">
+        <F>Cultivated subsistence (med)</F>
+        <F>255</F>
+      </Row>
+      <Row index="25">
+        <F>Cultivated subsistence (low)</F>
+        <F>255</F>
+      </Row>
+      <Row index="26">
+        <F>Cultivated cane pivot - crop</F>
+        <F>255</F>
+      </Row>
+      <Row index="27">
+        <F>Cultivated cane pivot - fallow</F>
+        <F>255</F>
+      </Row>
+      <Row index="28">
+        <F>Cultivated cane commercial - crop</F>
+        <F>255</F>
+      </Row>
+      <Row index="29">
+        <F>Cultivated cane commercial - fallow</F>
+        <F>255</F>
+      </Row>
+      <Row index="30">
+        <F>Cultivated cane emerging - crop</F>
+        <F>255</F>
+      </Row>
+      <Row index="31">
+        <F>Cultivated cane emerging - fallow</F>
+        <F>255</F>
+      </Row>
+      <Row index="32">
+        <F>Plantations / Woodlots mature</F>
+        <F>255</F>
+      </Row>
+      <Row index="33">
+        <F>Plantation / Woodlots young</F>
+        <F>255</F>
+      </Row>
+      <Row index="34">
+        <F>Plantation / Woodlots clearfelled</F>
+        <F>255</F>
+      </Row>
+      <Row index="35">
+        <F>Mines 1 bare</F>
+        <F>255</F>
+      </Row>
+      <Row index="36">
+        <F>Mines 2 semi-bare</F>
+        <F>255</F>
+      </Row>
+      <Row index="37">
+        <F>Mines water seasonal</F>
+        <F>255</F>
+      </Row>
+      <Row index="38">
+        <F>Mines water permanent</F>
+        <F>255</F>
+      </Row>
+      <Row index="39">
+        <F>Mine buildings</F>
+        <F>255</F>
+      </Row>
+      <Row index="40">
+        <F>Erosion (donga)</F>
+        <F>255</F>
+      </Row>
+      <Row index="41">
+        <F>Bare none vegetated</F>
+        <F>255</F>
+      </Row>
+      <Row index="42">
+        <F>Urban commercial</F>
+        <F>255</F>
+      </Row>
+      <Row index="43">
+        <F>Urban industrial</F>
+        <F>255</F>
+      </Row>
+      <Row index="44">
+        <F>Urban informal (dense trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="45">
+        <F>Urban informal (open trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="46">
+        <F>Urban informal (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="47">
+        <F>Urban informal (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="48">
+        <F>Urban residential (dense trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="49">
+        <F>Urban residential (open trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="50">
+        <F>Urban residential (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="51">
+        <F>Urban residential (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="52">
+        <F>Urban school and sports ground</F>
+        <F>255</F>
+      </Row>
+      <Row index="53">
+        <F>Urban smallholding (dense trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="54">
+        <F>Urban smallholding (open trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="55">
+        <F>Urban smallholding (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="56">
+        <F>Urban smallholding (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="57">
+        <F>Urban sports and golf (dense tree / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="58">
+        <F>Urban sports and golf (open tree / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="59">
+        <F>Urban sports and golf (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="60">
+        <F>Urban sports and golf (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="61">
+        <F>Urban township (dense trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="62">
+        <F>Urban township (open trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="63">
+        <F>Urban township (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="64">
+        <F>Urban township (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="65">
+        <F>Urban village (dense trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="66">
+        <F>Urban village (open trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="67">
+        <F>Urban village (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="68">
+        <F>Urban village (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="69">
+        <F>Urban built-up (dense trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="70">
+        <F>Urban built-up (open trees / bush)</F>
+        <F>255</F>
+      </Row>
+      <Row index="71">
+        <F>Urban built-up (low veg / grass)</F>
+        <F>255</F>
+      </Row>
+      <Row index="72">
+        <F>Urban built-up (bare)</F>
+        <F>255</F>
+      </Row>
+      <Row index="73">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="74">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="75">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="76">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="77">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="78">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="79">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="80">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="81">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="82">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="83">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="84">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="85">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="86">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="87">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="88">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="89">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="90">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="91">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="92">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="93">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="94">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="95">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="96">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="97">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="98">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="99">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="100">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="101">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="102">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="103">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="104">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="105">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="106">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="107">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="108">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="109">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="110">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="111">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="112">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="113">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="114">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="115">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="116">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="117">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="118">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="119">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="120">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="121">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="122">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="123">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="124">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="125">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="126">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="127">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="128">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="129">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="130">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="131">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="132">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="133">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="134">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="135">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="136">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="137">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="138">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="139">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="140">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="141">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="142">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="143">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="144">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="145">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="146">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="147">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="148">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="149">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="150">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="151">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="152">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="153">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="154">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="155">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="156">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="157">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="158">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="159">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="160">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="161">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="162">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="163">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="164">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="165">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="166">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="167">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="168">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="169">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="170">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="171">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="172">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="173">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="174">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="175">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="176">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="177">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="178">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="179">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="180">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="181">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="182">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="183">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="184">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="185">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="186">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="187">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="188">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="189">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="190">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="191">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="192">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="193">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="194">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="195">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="196">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="197">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="198">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="199">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="200">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="201">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="202">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="203">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="204">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="205">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="206">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="207">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="208">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="209">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="210">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="211">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="212">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="213">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="214">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="215">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="216">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="217">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="218">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="219">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="220">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="221">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="222">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="223">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="224">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="225">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="226">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="227">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="228">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="229">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="230">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="231">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="232">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="233">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="234">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="235">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="236">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="237">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="238">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="239">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="240">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="241">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="242">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="243">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="244">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="245">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="246">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="247">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="248">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="249">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="250">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="251">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="252">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="253">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="254">
+        <F></F>
+        <F>255</F>
+      </Row>
+      <Row index="255">
+        <F></F>
+        <F>255</F>
+      </Row>
+    </GDALRasterAttributeTable>
+  </PAMRasterBand>
+</PAMDataset>
